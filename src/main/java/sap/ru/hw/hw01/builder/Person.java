@@ -1,4 +1,4 @@
-package sap.ru.hw01.builder;
+package sap.ru.hw.hw01.builder;
 
 import lombok.Setter;
 

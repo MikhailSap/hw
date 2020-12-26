@@ -1,4 +1,4 @@
-package sap.ru.hw01.polymorphism;
+package sap.ru.hw.hw01.polymorphism;
 
 import org.springframework.stereotype.Component;
 

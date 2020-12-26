@@ -1,4 +1,4 @@
-package sap.ru.hw01.code;
+package sap.ru.hw.hw01.code;
 
 public class Code {
     interface Moveable {
